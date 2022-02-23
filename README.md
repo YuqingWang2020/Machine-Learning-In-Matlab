@@ -1,2 +1,2 @@
-# Matlab
-1. Machine learning
+# MachineLearning
+1. Linear regression
